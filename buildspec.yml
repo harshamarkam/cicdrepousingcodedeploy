@@ -6,3 +6,6 @@ phases:
        - echo "Hello World build"
        - pwd
        - ls -lrt
+       - mv index2.html index.html
+       - ls -lrt
+       - cat index.html
