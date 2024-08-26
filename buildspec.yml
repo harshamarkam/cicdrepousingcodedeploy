@@ -4,3 +4,5 @@ phases:
   build:
     commands:
        - echo "Hello World build"
+       - pwd
+       - ls -lrt
