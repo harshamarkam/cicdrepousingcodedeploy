@@ -9,3 +9,5 @@ phases:
        - mv index2.html index.html
        - ls -lrt
        - cat index.html
+artifacts:
+  files: '**/*'
